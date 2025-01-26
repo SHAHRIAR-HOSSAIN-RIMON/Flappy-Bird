@@ -30,8 +30,7 @@ The game's difficulty (pipe speed and spacing) can be customized by modifying th
 
 You can find these constants in the game's source file (`FlappyBird.java`).
 
-## License
-This project is open source. Feel free to clone, modify, and share it as you like!
+
 
 
 
