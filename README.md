@@ -1,24 +1,20 @@
 # Flappy-Bird
 
 Flappy Bird (Java Version)
-This is a Java-based recreation of the classic mobile game Flappy Bird. The game allows players to control a bird navigating through a series of pipes, trying to avoid obstacles and survive as long as possible.
+This is a Java-based recreation of the classic mobile game Flappy Bird. The goal is to control a bird, navigating it through a series of pipes while avoiding obstacles. Try to survive as long as possible and achieve the highest score!
 
 Features
-Simple Gameplay: Tap the spacebar to keep the bird in the air, avoid pipes, and achieve the highest score.
-Customizable Difficulty: The speed and spacing of the pipes can be adjusted.
-Graphics & Sound: Basic 2D graphics with sound effects to enhance the experience.
-High Score Tracking: The game tracks the best score achieved by the player.
-
-
+Simple Gameplay: Press the spacebar to make the bird rise, avoid pipes, and rack up the highest score.
+Customizable Difficulty: The speed and spacing of the pipes can be adjusted by modifying the code (explained below).
+Graphics & Sound: Enjoy basic 2D graphics and sound effects to enhance the gaming experience.
+High Score Tracking: The game tracks your best score, so you can always try to beat it!
 Requirements
 Java 8 or later
-Any IDE or command line setup to run Java programs
-
+An IDE (e.g., IntelliJ IDEA, Eclipse) or command-line setup to run Java programs
 Installation
 Clone or download this repository.
 Open the project in your favorite IDE or editor.
-Run the FlappyBird.java file.
-
+Run the FlappyBird.java file to start the game.
 Controls
 Press Space to make the bird rise.
 Avoid hitting the pipes or the ground!
